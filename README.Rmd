@@ -32,7 +32,7 @@ install.packages("belex")
 
 ## Example
 
-```{r, message = FALSE, warning=FALSE, eval=FALSE}
+```{r, message = FALSE, warning=FALSE, eval=TRUE}
 library(belex)
 
 blx15 <- belex("belex15")
@@ -40,4 +40,16 @@ blx15 <- belex("belex15")
 niis <- belex("NIIS", "2011-01-01", "2015-12-31")
 
 ```
+
+```{r}
+str(blx15)
+
+```
+
+```{r}
+head(blx15$data)
+
+```
+
+
 
