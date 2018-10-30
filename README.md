@@ -1,5 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/belex)](http://cran.r-project.org/web/packages/belex)
+[![Downloads](http://cranlogs.r-pkg.org/badges/belex)](http://cran.rstudio.com/package=belex)
+
 belex
 =====
 
